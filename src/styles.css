@@ -33,11 +33,11 @@
 @tailwind utilities;
 
 body{
-    @apply justify-center items-center h-lvh 
+    @apply justify-center items-center h-lvh
 }
 
 .container{
-    @apply flex flex-row justify-center items-center 
+    @apply flex flex-row justify-center items-center p-5 
 }
 
 .left-container {
